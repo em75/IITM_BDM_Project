@@ -1,6 +1,7 @@
 **BDM Capstone Project**
 
 **Project Title**
+
 Improving Profitability and Customer Retention for a Rural Latex Business through Data-Driven Strategies
 
 **Organization Overview**
